@@ -1,7 +1,5 @@
-RAD-ASS: the RADius-mASS relationship of exoplanets project from OSU's URSA program.
+# RAD-ASS: the RADius-mASS relationship of exoplanets project from OSU's URSA program.
 
 This was a project I completed in the summer of 2020 alongside two group mates to analyze the relationship between mass and radius in the planets of our solar system.
 
-Thanks for reading!
-
--贝丽
+![03-RAD_ASS_figure](https://github.com/rosehaze/RAD-ASS/assets/71717036/7bbd2419-3f52-4458-a93a-bed475218856)
